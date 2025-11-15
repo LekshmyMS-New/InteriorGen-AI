@@ -8,9 +8,9 @@ This project showcases advanced UI/UX, AI-driven image transformation, and moder
 ## 📹 Screen Recording (Demo Video)
 
 👉 **Project Demo Video Link:**  
-Paste your uploaded GitHub video link here:
+Attached link for the demo screens:
 
-`https://github.com/<your-username>/<repo-name>/assets/<id>`
+`https://github.com/<your-username>/<repo-name>/assets/<id>](https://drive.google.com/file/d/1tRQw6gC7NEbuNA2ULMn6L7eMi_guPtAN/view?usp=sharing`
 
 ---
 

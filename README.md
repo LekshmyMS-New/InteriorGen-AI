@@ -1,9 +1,7 @@
 # Virtual Interior Designer – AI Powered Room Design Web App
 
 An AI-powered interior design web application that transforms user-uploaded room photos into beautifully redesigned spaces.  
-This project showcases advanced UI/UX, AI-driven image transformation, and modern MERN stack integration — perfect for top MNC interview portfolios.
-
----
+This project showcases advanced UI/UX, AI-driven image transformation, and modern MERN stack integration
 
 ##  Screen Recording (Demo Video)
 

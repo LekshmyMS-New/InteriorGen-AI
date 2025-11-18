@@ -1,38 +1,32 @@
-# 🏡 Virtual Interior Designer – AI Powered Room Design Web App
+# Virtual Interior Designer – AI Powered Room Design Web App
 
 An AI-powered interior design web application that transforms user-uploaded room photos into beautifully redesigned spaces.  
 This project showcases advanced UI/UX, AI-driven image transformation, and modern MERN stack integration — perfect for top MNC interview portfolios.
 
 ---
 
-## 📹 Screen Recording (Demo Video)
+##  Screen Recording (Demo Video)
 
-👉 **Project Demo Video Link:**  
+ **Project Demo Video Link:**  
 Attached link for the demo screens:
 
 `https://drive.google.com/file/d/1tRQw6gC7NEbuNA2ULMn6L7eMi_guPtAN/view?usp=drive_link`
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🖼️ Upload a room image  
-- 🎨 Select design themes (Modern, Minimal, Luxury, Scandinavian, etc.)  
-- 🤖 AI Image Generation: redesigns the uploaded room instantly  
-- ⚡ Fast & polished React + Vite frontend  
-- 🪄 Beautiful animations using Framer Motion  
-- 🌐 Secure Node.js backend API  
-- 📂 Clean and scalable code architecture  
-- 📱 Fully responsive UI  
-- 📌 Perfect for resumes & professional portfolios  
-
+-  Upload a room image  
+-  Select design themes (Modern, Minimal, Luxury, Scandinavian, etc.)  
+-  AI Image Generation: redesigns the uploaded room instantly  
+  
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 - React (Vite)
-- Styled Components / TailwindCSS (based on your setup)
+- Styled Components /mui
 - Framer Motion
 - Axios
 
@@ -44,7 +38,7 @@ Attached link for the demo screens:
 
 ---
 
-## 📁 Project Folder Structure
+##  Project Folder Structure
 
 ```plaintext
 virtual-interior-designer/
@@ -90,7 +84,7 @@ npm run dev
 
 ---
 
-## ▶️ Usage Guide
+## Usage Guide
 
 1. Upload your room photo  
 2. Select interior design style  
@@ -100,7 +94,7 @@ npm run dev
 
 ---
 
-## 🧪 Build for Production (Frontend)
+##  Build for Production (Frontend)
 
 ```bash
 npm run build
@@ -108,7 +102,7 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork this repo  
 2. Create a new branch (`feature-branch`)  
@@ -117,14 +111,6 @@ npm run build
 
 ---
 
-## 📄 License
+ 
 
-This project is **MIT Licensed**.
-
----
-
-## ⭐ Support
-
-Loved the project?  
-Please consider giving it a ⭐ on GitHub — it helps a lot!
 
